@@ -1,4 +1,4 @@
-# ALX Frontend Javascript
+# Frontend Development
 ## Projects
 * [Advanced HTML](./0x00-ES6_basic/)
 * [Developer tools]()
